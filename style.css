@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 700px;
+    margin: 0 auto;
+}
+body{
+    background-color: blueviolet;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+font-family: 'Shantell Sans', cursive;
+    color: white;
+    font-size: 100px;
+}
+.luck{
+    width: 100px;
+    height: 100px;
+}
+.wish{
+    text-align: center;
+}
+.wishes{
+    display: flex;
+    justify-content: space-around;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+font-family: 'Shantell Sans', cursive;
+    color: white;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+font-family: 'Shantell Sans', cursive;
+    color: white;
+}
+.mom{
+    display: flex;
+}
